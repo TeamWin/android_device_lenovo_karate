@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libcryptfs_hw
 
-# Kernel
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := karate
 PRODUCT_NAME := full_karate
